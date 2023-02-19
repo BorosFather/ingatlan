@@ -1,3 +1,12 @@
+/*
+* File: Property.java
+* Author: Boros Zoltán
+* Copyright: 2023, BorosFather
+* Group: Szoft II N
+* Date: 2023-02-19
+* Github: https://github.com/BorosFather
+* Licenc: GNU GPL
+*/
 package models;
 
 public class Property {
@@ -14,7 +23,7 @@ public class Property {
         this.size = size;
         this.price = price;
     }
-    
+
     public String getCity() {
         return city;
     }
